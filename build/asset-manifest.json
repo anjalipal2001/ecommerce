@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.9d988fb0.chunk.css",
+    "main.js": "/ecommerce/static/js/main.f0f16f5e.chunk.js",
+    "main.js.map": "/ecommerce/static/js/main.f0f16f5e.chunk.js.map",
+    "runtime-main.js": "/ecommerce/static/js/runtime-main.ec4e4ff1.js",
+    "runtime-main.js.map": "/ecommerce/static/js/runtime-main.ec4e4ff1.js.map",
+    "static/css/2.fb346933.chunk.css": "/ecommerce/static/css/2.fb346933.chunk.css",
+    "static/js/2.297d7167.chunk.js": "/ecommerce/static/js/2.297d7167.chunk.js",
+    "static/js/2.297d7167.chunk.js.map": "/ecommerce/static/js/2.297d7167.chunk.js.map",
+    "index.html": "/ecommerce/index.html",
+    "precache-manifest.5f2227f637aab0fc55ff3ec4ddaf9cf8.js": "/ecommerce/precache-manifest.5f2227f637aab0fc55ff3ec4ddaf9cf8.js",
+    "service-worker.js": "/ecommerce/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/ecommerce/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.9d988fb0.chunk.css.map": "/ecommerce/static/css/main.9d988fb0.chunk.css.map",
+    "static/js/2.297d7167.chunk.js.LICENSE.txt": "/ecommerce/static/js/2.297d7167.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/ecommerce/static/media/1.a6827cf5.jpg",
+    "static/media/2.jpg": "/ecommerce/static/media/2.b35d9950.jpg",
+    "static/media/3.jpg": "/ecommerce/static/media/3.5989ebbf.jpg",
+    "static/media/4.jpg": "/ecommerce/static/media/4.5abb2234.jpg",
+    "static/media/5.jpg": "/ecommerce/static/media/5.414026f7.jpg",
+    "static/media/Payment.css": "/ecommerce/static/media/card.54f2288f.jpg",
+    "static/media/emptyBookmarks.svg": "/ecommerce/static/media/emptyBookmarks.84799a34.svg",
+    "static/media/emptyCart.svg": "/ecommerce/static/media/emptyCart.93ba7835.svg",
+    "static/media/success.svg": "/ecommerce/static/media/success.b9dcccae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec4e4ff1.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.297d7167.chunk.js",
+    "static/css/main.9d988fb0.chunk.css",
+    "static/js/main.f0f16f5e.chunk.js"
+  ]
+}
