@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/reactjsecommerce/static/css/main.ae8c0145.chunk.css",
+    "main.js": "/reactjsecommerce/static/js/main.df3aab03.chunk.js",
+    "main.js.map": "/reactjsecommerce/static/js/main.df3aab03.chunk.js.map",
+    "runtime-main.js": "/reactjsecommerce/static/js/runtime-main.4532451c.js",
+    "runtime-main.js.map": "/reactjsecommerce/static/js/runtime-main.4532451c.js.map",
+    "static/css/2.3fc42fd8.chunk.css": "/reactjsecommerce/static/css/2.3fc42fd8.chunk.css",
+    "static/js/2.704f30df.chunk.js": "/reactjsecommerce/static/js/2.704f30df.chunk.js",
+    "static/js/2.704f30df.chunk.js.map": "/reactjsecommerce/static/js/2.704f30df.chunk.js.map",
+    "index.html": "/reactjsecommerce/index.html",
+    "precache-manifest.feeed548d569fe9f0e8dcc701fd5da38.js": "/reactjsecommerce/precache-manifest.feeed548d569fe9f0e8dcc701fd5da38.js",
+    "service-worker.js": "/reactjsecommerce/service-worker.js",
+    "static/css/2.3fc42fd8.chunk.css.map": "/reactjsecommerce/static/css/2.3fc42fd8.chunk.css.map",
+    "static/css/main.ae8c0145.chunk.css.map": "/reactjsecommerce/static/css/main.ae8c0145.chunk.css.map",
+    "static/js/2.704f30df.chunk.js.LICENSE.txt": "/reactjsecommerce/static/js/2.704f30df.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/reactjsecommerce/static/media/1.a6827cf5.jpg",
+    "static/media/2.jpg": "/reactjsecommerce/static/media/2.b35d9950.jpg",
+    "static/media/3.jpg": "/reactjsecommerce/static/media/3.5989ebbf.jpg",
+    "static/media/4.jpg": "/reactjsecommerce/static/media/4.5abb2234.jpg",
+    "static/media/5.jpg": "/reactjsecommerce/static/media/5.414026f7.jpg",
+    "static/media/Payment.css": "/reactjsecommerce/static/media/card.54f2288f.jpg",
+    "static/media/emptyBookmarks.svg": "/reactjsecommerce/static/media/emptyBookmarks.84799a34.svg",
+    "static/media/emptyCart.svg": "/reactjsecommerce/static/media/emptyCart.93ba7835.svg",
+    "static/media/icon.svg": "/reactjsecommerce/static/media/icon.cd302fef.svg",
+    "static/media/logo.svg": "/reactjsecommerce/static/media/logo.159260d8.svg",
+    "static/media/success.svg": "/reactjsecommerce/static/media/success.b9dcccae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4532451c.js",
+    "static/css/2.3fc42fd8.chunk.css",
+    "static/js/2.704f30df.chunk.js",
+    "static/css/main.ae8c0145.chunk.css",
+    "static/js/main.df3aab03.chunk.js"
+  ]
+}
